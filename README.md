@@ -1,2 +1,2 @@
 # Flower-Shop-Sales-Dashboard
-Thie is the dataset for the car sales analysis dashboard dataset
+This is the dataset for the flower shop sales analysis dashboard dataset
